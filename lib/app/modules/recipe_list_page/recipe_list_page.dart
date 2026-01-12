@@ -446,7 +446,7 @@ class _RecipeListPageState extends State<RecipeListPage> {
                                     ClipRRect(
                                       borderRadius: BorderRadius.circular(16.r),
                                       child: Hero(
-                                        tag: "image-${[index]}",
+                                        tag: "image-${index}",
                                         child: Image.network(
                                           recipes[index].thumbnailUrl,
                                           width: double.infinity,

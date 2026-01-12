@@ -373,6 +373,7 @@ class _RecipeDetailPageState extends State<RecipeDetailPage> {
 
         return SafeArea(
           child: Scaffold(
+            backgroundColor: Color(0xFFf7f7f7),
             body: CustomScrollView(
               slivers: [
                 SliverAppBar(

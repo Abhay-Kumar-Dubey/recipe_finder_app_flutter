@@ -34,7 +34,7 @@ A modern **Flutter-based Recipe Finder application** that allows users to explor
 You can download and install the APK from the links below:
 
 ### 🔹 Google Drive (Recommended)
-👉 [Download APK from Google Drive](https://drive.google.com/file/d/1xj9O4BbF8iSTpnCWeIa3L6fg8aJiqqjV/view?usp=share_link)
+👉 [Download APK from Google Drive](https://drive.google.com/file/d/1Qc6HnkTzcm6se475XRoA5yvT-UvP9ux9/view?usp=share_link)
 
 ### 🔹 GitHub Repository
 - The APK file is also uploaded directly inside this repository.
