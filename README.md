@@ -22,11 +22,11 @@ A modern **Flutter-based Recipe Finder application** that allows users to explor
 
 | Home Screen | Recipe Details |
 |-------------|-----------------|
-| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) |
+| ![Home](assets/screenshots/home.jpg) | ![Details](assets/screenshots/details.jpg) |
 
 | Search Screen | Favorites Screen |
 |---------------|------------------|
-| ![Search](assets/screenshots/search.png) | ![Favorites](assets/screenshots/favorites.png) |
+| ![Search](assets/screenshots/search.jpg) | ![Favorites](assets/screenshots/favorites.jpg) |
 
 ## 🛠️ Tech Stack
 
