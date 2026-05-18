@@ -26,7 +26,7 @@ A modern **Flutter-based Recipe Finder application** that allows users to explor
 
 | Search Screen | Favorites Screen |
 |---------------|------------------|
-| ![Search](assets/screenshots/search.jpg) | ![Favorites](assets/screenshots/favorite.jpg) |
+| ![Search](assets/screenshots/search.jpg) | ![Favorites](assets/screenshots/favourite.jpg) |
 
 ## 🛠️ Tech Stack
 
