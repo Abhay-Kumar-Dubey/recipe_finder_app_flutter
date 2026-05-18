@@ -18,6 +18,15 @@ A modern **Flutter-based Recipe Finder application** that allows users to explor
 - ⚡ Fast API-based data fetching
 
 ---
+## 📸 Screenshots
+
+| Home Screen | Recipe Details |
+|-------------|-----------------|
+| ![Home](assets/screenshots/home.png) | ![Details](assets/screenshots/details.png) |
+
+| Search Screen | Favorites Screen |
+|---------------|------------------|
+| ![Search](assets/screenshots/search.png) | ![Favorites](assets/screenshots/favorites.png) |
 
 ## 🛠️ Tech Stack
 
